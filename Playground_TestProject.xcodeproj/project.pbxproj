@@ -26,7 +26,7 @@
 		9D7DCAA21ED86DF400D35BCC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9D7DCAA51ED86DF400D35BCC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9D7DCAA71ED86DF400D35BCC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9D7DCAAD1ED86E4D00D35BCC /* Playground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Playground.playground; sourceTree = "<group>"; };
+		9DACE3131ED874B8008F6B07 /* Playground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Playground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +52,7 @@
 		9D7DCA8F1ED86DF400D35BCC = {
 			isa = PBXGroup;
 			children = (
-				9D7DCAAD1ED86E4D00D35BCC /* Playground.playground */,
+				9DACE3131ED874B8008F6B07 /* Playground.playground */,
 				9D7DCA9A1ED86DF400D35BCC /* Playground_TestProject */,
 				9D7DCA991ED86DF400D35BCC /* Products */,
 				E54C1BB79E7C00F3A7771F60 /* Pods */,
