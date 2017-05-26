@@ -12,6 +12,7 @@
 		9D7DCAA11ED86DF400D35BCC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D7DCA9F1ED86DF400D35BCC /* Main.storyboard */; };
 		9D7DCAA31ED86DF400D35BCC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9D7DCAA21ED86DF400D35BCC /* Assets.xcassets */; };
 		9D7DCAA61ED86DF400D35BCC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D7DCAA41ED86DF400D35BCC /* LaunchScreen.storyboard */; };
+		9DACE3151ED875E5008F6B07 /* Screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DACE3141ED875E5008F6B07 /* Screenshot.png */; };
 		A8E3FA47D9838E6F485ACD66 /* Pods_Playground_TestProject.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 85C3DE7FC12F8DA99061C827 /* Pods_Playground_TestProject.framework */; };
 /* End PBXBuildFile section */
 
@@ -27,6 +28,7 @@
 		9D7DCAA51ED86DF400D35BCC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9D7DCAA71ED86DF400D35BCC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9DACE3131ED874B8008F6B07 /* Playground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Playground.playground; sourceTree = "<group>"; };
+		9DACE3141ED875E5008F6B07 /* Screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 		9D7DCA8F1ED86DF400D35BCC = {
 			isa = PBXGroup;
 			children = (
+				9DACE3141ED875E5008F6B07 /* Screenshot.png */,
 				9DACE3131ED874B8008F6B07 /* Playground.playground */,
 				9D7DCA9A1ED86DF400D35BCC /* Playground_TestProject */,
 				9D7DCA991ED86DF400D35BCC /* Products */,
@@ -156,6 +159,7 @@
 				9D7DCAA61ED86DF400D35BCC /* LaunchScreen.storyboard in Resources */,
 				9D7DCAA31ED86DF400D35BCC /* Assets.xcassets in Resources */,
 				9D7DCAA11ED86DF400D35BCC /* Main.storyboard in Resources */,
+				9DACE3151ED875E5008F6B07 /* Screenshot.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
